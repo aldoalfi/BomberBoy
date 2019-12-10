@@ -4,7 +4,7 @@ Program ini adalah program game Bomber Man pada umunya yang dapat dimainkan seca
 
 Tampilan Menu :
 
-<img src="https://github.com/aldoalfi/BomberBoy/tree/master/assets/game_menu.png" alt="Game Menu" width="600" height="500">
+<img src="https://github.com/aldoalfi/BomberBoy/tree/master/assets/game_menu.PNG" alt="Game Menu" width="600" height="500">
 
 Tampilan in Game :
 
