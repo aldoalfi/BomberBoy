@@ -5,10 +5,10 @@
 
 Program ini adalah program game Bomber Man pada umumnya yang dapat dimainkan secara multiplayer.
 
-Move Player 1 = W A S D
+Move Player 1 = W A S D<br/>
 Move Player 2 = Panah pada Keyboard
 
-Bomb Player 1 = SPACE
+Bomb Player 1 = SPACE<br/>
 Bomb Player 2 = ENTER
 
 <br/>**How to Play?** <br/>
