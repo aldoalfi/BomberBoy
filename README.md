@@ -1,10 +1,18 @@
 # BomberBoy
-
 **Kelompok 19**<br/>
 **Muhammad Alfi A  - 1806200015**<br/>
 **Mohammad Salman A - 1806200381**<br/>
 
 Program ini adalah program game Bomber Man pada umumnya yang dapat dimainkan secara multiplayer.
+
+Move Player 1 = W A S D
+Move Player 2 = Panah pada Keyboard
+
+Bomb Player 1 = SPACE
+Bomb Player 2 = ENTER
+
+<br/>**How to Play?** <br/>
+Game ini bersifat versus dimana player akan saling membunuh dengan cara meledakan bomb ke player lainnya. Pemenang dari game ditentukan dengan yang tidak mati/membunuh player lain dengan ledakan bomb.
 
 Tampilan Menu :
 
