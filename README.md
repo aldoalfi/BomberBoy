@@ -16,7 +16,7 @@ Game ini bersifat versus dimana player akan saling membunuh dengan cara meledaka
 
 Tampilan Menu :
 
-<img src="assets/game_menu.png" alt="Game Menu" width="600" height="500">
+<img src="screenshots/pic4.png" alt="Game Menu" width="600" height="500">
 
 
 Tampilan in Game :
