@@ -1,5 +1,8 @@
 # BomberBoy
-# Kelompok 19
+
+**Kelompok 19**
+**Muhammad Alfi A  - 1806200015**
+**Mohammad Salman A - 1806200381**
 
 Program ini adalah program game Bomber Man pada umumnya yang dapat dimainkan secara multiplayer.
 
