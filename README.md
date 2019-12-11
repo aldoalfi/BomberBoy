@@ -11,9 +11,9 @@ Tampilan in Game :
 
 <img src="screenshots/pic3.jpg" alt="Player Win" width="600" height="500">
 
-<img src="screenshots/pic1.jpg" alt="Player Win" width="600" height="500">
+<img src="screenshots/pic1.png" alt="Player Win" width="600" height="500">
 
-<img src="screenshots/pic2.jpg" alt="Player Win" width="600" height="500">
+<img src="screenshots/pic2.png" alt="Player Win" width="600" height="500">
 
 Tampilan Player Win :
 
